@@ -13,10 +13,9 @@ int main()
 
     cout << endl;
     
-    cout << "Enter array elements : ";
     for (int i = 0; i < size; i++)
     {
-        cout << "Enter a[" << i << "] : ";
+        cout << "Enter elements : ";
         cin >> a[i];
     }
 
