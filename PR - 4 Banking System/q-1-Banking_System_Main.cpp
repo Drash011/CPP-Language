@@ -223,7 +223,8 @@ int main()
 
         case 4:
 
-            cout << "Thank You for Visiting..." << endl;
+            cout << endl
+                 << "Thank You for Visiting..." << endl;
             break;
 
         default:
